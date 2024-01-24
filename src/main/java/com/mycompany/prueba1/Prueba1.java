@@ -13,6 +13,7 @@ import java.awt.event.ActionListener;
 public class Prueba1 {
 
     public static void main(String[] args) {
+        System.out.println("PEPE PECA PICA PAPAS");
         JFrame frame = new JFrame("Calculadora Simple");
         frame.setSize(300, 200);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
